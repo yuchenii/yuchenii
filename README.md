@@ -5,7 +5,7 @@
 
 
 ![Metrics](https://github.com/yuchenii/yuchenii/blob/main/github-metrics.svg)
-
+![Metrics](https://github.com/yuchenii/yuchenii/blob/main/github-metrics-additional.svg)
 
 
 <!--
