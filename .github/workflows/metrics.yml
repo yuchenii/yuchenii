@@ -29,12 +29,17 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           user: yuchenii
-          base: "header, repositories"
           
           config_order: base.header, isocalendar, base.repositories, followup, pagespeed, people
-          config_padding: 10%
+          config_padding: 0, 8 + 11%
+          config_timezone: Asia/Shanghai
+          use_prebuilt_image: yes
+          
+          base: "header, repositories"
           
           plugin_isocalendar: yes
+          # plugin_isocalendar_duration: full-year
+          
           plugin_lines: yes
           plugin_traffic: yes
           plugin_followup: yes
@@ -44,8 +49,8 @@ jobs:
        
           plugin_people: yes
           plugin_people_types: followers, following
-          plugin_people_limit: 12
-          plugin_people_size: 12
+          plugin_people_limit: 28
+          plugin_people_size: 28
           
           
       - name: Metrics additional
@@ -58,8 +63,12 @@ jobs:
           filename: github-metrics-additional.svg
           
           config_order: habits, stargazers, languages, stargazers, topics
-          config_padding: 10%
+          config_padding: 0, 8 + 11%
+          config_timezone: Asia/Shanghai
+          use_prebuilt_image: yes
+          
           base: ""
+          
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_facts: no
@@ -68,10 +77,12 @@ jobs:
           plugin_stargazers: yes
 
           plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, makefile, qmake, lex, cmake, gnuplot
-          plugin_languages_skipped: lowlighter
+          plugin_languages_ignored: html, css, less
+          plugin_languages_details: bytes-size, percentage
 
           plugin_topics: yes
+          plugin_topics_sort: stars 
           plugin_topics_mode: mastered
+          plugin_topics_limit: 0 
         
 
