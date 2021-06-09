@@ -2,9 +2,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchenii&show_icons=true&theme=vue-dark&count_private=true)
 
+<img alt="🌱" align="left" width="400px" src="https://github.com/yuchenii/yuchenii/blob/main/github-metrics.svg">
+<img alt="🌱" align="left" width="400px" src="https://github.com/yuchenii/yuchenii/blob/main/github-metrics-additional.svg">
+
+<!-- 
 ![Metrics](https://github.com/yuchenii/yuchenii/blob/main/github-metrics.svg)
 ![Metrics-aditional](https://github.com/yuchenii/yuchenii/blob/main/github-metrics-additional.svg)
-
+ -->
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchenii&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
