@@ -4,6 +4,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchenii&theme=vue-dark&layout=compact)
 
 
+![Metrics](https://github.com/yuchenii/yuchenii/blob/main/github-metrics.svg)
+
+
+
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchenii&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchenii&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
