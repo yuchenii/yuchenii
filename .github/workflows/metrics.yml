@@ -26,10 +26,13 @@ jobs:
       - name: Metrics embed
         uses: lowlighter/metrics@latest
         with:
-        # Your GitHub token
+          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           user: yuchenii
           base: "header, repositories"
+          
+          config_order: base.header, isocalendar, base.repositories, followup, pagespeed, people
+          config_padding: 10%
           
           plugin_isocalendar: yes
           plugin_lines: yes
@@ -44,6 +47,19 @@ jobs:
           plugin_people_limit: 28
           plugin_people_size: 28
           
+          
+      - name: Metrics additional
+        uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: yuchenii
+          
+          filename: github-metrics-additional.svg
+          
+          config_order: habits, stargazers, languages, stargazers, topics
+          config_padding: 10%
+          base: ""
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_facts: no
