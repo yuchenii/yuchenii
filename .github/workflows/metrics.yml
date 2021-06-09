@@ -1,0 +1,40 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Metrics
+
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  push:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  github-metrics:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Runs a single command using the runners shell
+      - name: Metrics embed
+        uses: lowlighter/metrics@latest
+        with:
+        # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: yuchenii
+          base: "header, repositories"
+          plugin_isocalendar: yes
+          plugin_lines: yes
+          plugin_traffic: yes
+          plugin_followup: yes
+          plugin_pagespeed: no
+          plugin_pagespeed_screenshot: yes
+        
+
