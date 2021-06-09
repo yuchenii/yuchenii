@@ -63,7 +63,7 @@ jobs:
           filename: github-metrics-additional.svg
           
           config_order: habits, stargazers, languages, stargazers, topics
-          config_padding: 0, 8 + 11%
+          config_padding: 0, 20 + 11%
           config_timezone: Asia/Shanghai
           use_prebuilt_image: yes
           
