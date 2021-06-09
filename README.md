@@ -2,16 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchenii&show_icons=true&theme=vue-dark&count_private=true)
 
-<table>
-    <tr>
-        <td>
-            <center>
-                <img alt="🌱" width="400px" algin="left" src="https://github.com/yuchenii/yuchenii/blob/main/github-metrics.svg">
-                <img alt="🌱" width="400px" algin="right" src="https://github.com/yuchenii/yuchenii/blob/main/github-metrics-additional.svg">
-            </center>
-        </td>
-    </tr>
-</table>
+<img alt="🌱" width="400px" algin="left" src="https://github.com/yuchenii/yuchenii/blob/main/github-metrics.svg"><img alt="🌱" width="400px" algin="right" src="https://github.com/yuchenii/yuchenii/blob/main/github-metrics-additional.svg">
 
 
 
