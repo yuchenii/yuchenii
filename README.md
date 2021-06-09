@@ -4,8 +4,8 @@
 
 
 <center class="half">
-    <img alt="🌱" width="400px" src="https://github.com/yuchenii/yuchenii/blob/main/github-metrics.svg">
-    <img alt="🌱" width="400px" src="https://github.com/yuchenii/yuchenii/blob/main/github-metrics-additional.svg">
+    <img alt="🌱" width="50%" src="https://github.com/yuchenii/yuchenii/blob/main/github-metrics.svg">
+    <img alt="🌱" width="50%" src="https://github.com/yuchenii/yuchenii/blob/main/github-metrics-additional.svg">
 </center>
 
 
