@@ -3,10 +3,15 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchenii&show_icons=true&theme=vue-dark&count_private=true)
 
 
-<center class="half">
-    <img alt="🌱" width="50%" src="https://github.com/yuchenii/yuchenii/blob/main/github-metrics.svg">
-    <img alt="🌱" width="50%" src="https://github.com/yuchenii/yuchenii/blob/main/github-metrics-additional.svg">
-</center>
+<figure class="half">
+    <img alt="🌱" src="https://github.com/yuchenii/yuchenii/blob/main/github-metrics.svg">
+    <img alt="🌱" src="https://github.com/yuchenii/yuchenii/blob/main/github-metrics-additional.svg">
+</figure>
+
+<!-- <center class="half">
+    <img alt="🌱" width="400" src="https://github.com/yuchenii/yuchenii/blob/main/github-metrics.svg">
+    <img alt="🌱" width="400" src="https://github.com/yuchenii/yuchenii/blob/main/github-metrics-additional.svg">
+</center> -->
 
 
 <!-- ![Metrics](https://github.com/yuchenii/yuchenii/blob/main/github-metrics.svg)
