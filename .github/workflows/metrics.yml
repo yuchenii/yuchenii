@@ -44,8 +44,8 @@ jobs:
        
           plugin_people: yes
           plugin_people_types: followers, following
-          plugin_people_limit: 28
-          plugin_people_size: 28
+          plugin_people_limit: 12
+          plugin_people_size: 12
           
           
       - name: Metrics additional
