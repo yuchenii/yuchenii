@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuchenii&show_icons=true&theme=vue-dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuchenii&theme=vue-dark&layout=compact)
+
+<img alt="🌱" algin="left" width="400px" src="https://github.com/yuchenii/yuchenii/blob/main/github-metrics.svg">
+<img alt="🌱" algin="left" width="400px" src="https://github.com/yuchenii/yuchenii/blob/main/github-metrics-additional.svg">
 
 
-![Metrics](https://github.com/yuchenii/yuchenii/blob/main/github-metrics.svg)
-![Metrics](https://github.com/yuchenii/yuchenii/blob/main/github-metrics-additional.svg)
+<!-- ![Metrics](https://github.com/yuchenii/yuchenii/blob/main/github-metrics.svg)
+![Metrics-aditional](https://github.com/yuchenii/yuchenii/blob/main/github-metrics-additional.svg) -->
 
 
 <!--
