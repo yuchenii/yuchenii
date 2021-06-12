@@ -1269,8 +1269,8 @@
               20
             </div>
                     <div class="entry">
-              <span class="value">13</span>
-              <div class="bar" style="height: 36.11111111111111px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">14</span>
+              <div class="bar" style="height: 38.88888888888889px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               21
             </div>
                     <div class="entry">
@@ -1320,8 +1320,8 @@
                 Fri
               </div>
                         <div class="entry">
-                <span class="value">11</span>
-                <div class="bar" style="height: 15.714285714285714px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">12</span>
+                <div class="bar" style="height: 17.142857142857142px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Sat
               </div>
                     </div>
@@ -1546,8 +1546,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="332.5178738296352" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="332.5178738296352" y="0" width="127.4821261703648" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="335.6893588282168" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="335.6893588282168" y="0" width="124.31064117178315" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1557,8 +1557,8 @@
                       Java
                     </div>
                             <small>
-                                <div>197 kB</div>
-                                <div>72.29%</div>
+                                <div>204 kB</div>
+                                <div>72.98%</div>
                             </small>
                         </div>
                     </section>
@@ -1570,7 +1570,7 @@
                     </div>
                             <small>
                                 <div>75.6 kB</div>
-                                <div>27.71%</div>
+                                <div>27.02%</div>
                             </small>
                         </div>
                     </section>
