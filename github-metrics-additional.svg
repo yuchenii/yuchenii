@@ -360,9 +360,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="453.082813721848" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="453.082813721848" y="0" width="6.213396988409107" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="459.2962107102571" y="0" width="0.7037892897428575" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="453.0785698651716" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="453.0785698651716" y="0" width="6.213338789851372" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="459.29190865502295" y="0" width="0.708091344977058" height="8" fill="#6E4C13"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -386,7 +386,7 @@
                                 Assembly
                             </div>
                             <small>
-                                <div>44.4 kB</div>
+                                <div>44.7 kB</div>
                                 <div>0.15%</div>
                             </small>
                         </div>
