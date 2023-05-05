@@ -12,7 +12,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 18 commits)</small>
+                    <small class="h-details">(computed from last 20 commits)</small>
                 </h2>
             </section>
             <section class="habits">
@@ -20,8 +20,8 @@
                     <h3>Commit activity per hour of day</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             00
                         </div>
                         <div class="entry">
@@ -176,8 +176,8 @@
                                 Fri
                             </div>
                             <div class="entry">
-                                <span class="value">2</span>
-                                <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">4</span>
+                                <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Sat
                             </div>
                         </div>
@@ -363,13 +363,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="199.29490431879782" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="199.29490431879782" y="0" width="100.77120733394246" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="300.0661116527403" y="0" width="75.67009509420093" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="375.7362067469412" y="0" width="34.90497215572377" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="410.641178902665" y="0" width="28.45030651673464" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="439.09148541939965" y="0" width="20.808489569243175" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="459.89997498864284" y="0" width="0.10002501135719791" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="189.46347239138768" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="189.46347239138768" y="0" width="96.5206015227318" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="285.9840739141195" y="0" width="76.77968914531947" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="362.76376305943893" y="0" width="44.176089519936724" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="406.93985257937567" y="0" width="33.183072346744176" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="440.1229249261198" y="0" width="19.781984403887865" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="459.90490933000774" y="0" width="0.09509066999228444" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -382,7 +382,7 @@
                             </div>
                             <small>
                                 <div>424 kB</div>
-                                <div>43.32%</div>
+                                <div>41.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -393,20 +393,20 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>161 kB</div>
-                                <div>16.45%</div>
+                                <div>171 kB</div>
+                                <div>16.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Vue
+                                C++
                             </div>
                             <small>
-                                <div>60.5 kB</div>
-                                <div>6.18%</div>
+                                <div>74.3 kB</div>
+                                <div>7.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -431,20 +431,20 @@
                                 Python
                             </div>
                             <small>
-                                <div>214 kB</div>
-                                <div>21.91%</div>
+                                <div>216 kB</div>
+                                <div>20.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C++
+                                Vue
                             </div>
                             <small>
-                                <div>74.3 kB</div>
-                                <div>7.59%</div>
+                                <div>98.9 kB</div>
+                                <div>9.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -456,7 +456,7 @@
                             </div>
                             <small>
                                 <div>44.3 kB</div>
-                                <div>4.52%</div>
+                                <div>4.3%</div>
                             </small>
                         </div>
                     </section>
