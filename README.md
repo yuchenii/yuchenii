@@ -5,7 +5,7 @@
 报错 Maximum retries exceeded
 自己部署 https://github.com/anuraghazra/github-readme-stats/tree/master#deploy-on-your-own
 -->
-![](https://github-readme-stats-6pw3arko7-yuchenii.vercel.app/api?username=yuchenii&show_icons=true&theme=vue-dark&count_private=true)
+![](https://github-readme-stats-qooz-56ziz8o3l-yucheniis-projects.vercel.app/api?username=yuchenii&show_icons=true&theme=vue-dark&count_private=true)
 
 <img alt="⚡" align="left" width="400px" src="https://github.com/yuchenii/yuchenii/blob/main/github-metrics.svg">
 <img alt="⚡" align="left" width="400px" src="https://github.com/yuchenii/yuchenii/blob/main/github-metrics-additional.svg">
