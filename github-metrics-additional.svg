@@ -363,14 +363,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="129.22139635927488" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="129.22139635927488" y="0" width="121.16500291578383" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="250.38639927505872" y="0" width="74.2957869075018" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="324.6821861825605" y="0" width="68.05869694580745" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="392.74088312836795" y="0" width="30.785964257322387" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="423.52684738569036" y="0" width="22.632135313551014" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="446.15898269924134" y="0" width="13.492076415379717" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="459.6510591146211" y="0" width="0.34894088537891615" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="129.14275205518692" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="129.14275205518692" y="0" width="121.37121832048545" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="250.51397037567233" y="0" width="74.25057039829645" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="324.7645407739688" y="0" width="68.01727633738473" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="392.7818171113535" y="0" width="30.76722788081735" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="423.54904499217093" y="0" width="22.618361367579944" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="446.1674063597508" y="0" width="13.483865120731274" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="459.65127148048214" y="0" width="0.3487285195179084" height="8" fill="#c6538c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -383,7 +383,7 @@
                             </div>
                             <small>
                                 <div>424 kB</div>
-                                <div>28.09%</div>
+                                <div>28.07%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -395,7 +395,7 @@
                             </div>
                             <small>
                                 <div>244 kB</div>
-                                <div>16.15%</div>
+                                <div>16.14%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -432,8 +432,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>397 kB</div>
-                                <div>26.34%</div>
+                                <div>398 kB</div>
+                                <div>26.39%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -445,7 +445,7 @@
                             </div>
                             <small>
                                 <div>223 kB</div>
-                                <div>14.8%</div>
+                                <div>14.79%</div>
                             </small>
                         </div>
                         <div class="field language details">
